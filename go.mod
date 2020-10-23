@@ -1,3 +1,3 @@
-module github.com/liuchenwe-echo/tapd-alfred
+module github.com/liuchenwei-echo/tapd-alfred
 
 go 1.15
